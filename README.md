@@ -44,10 +44,12 @@ Access the deployed web application at: http://localhost:8080/spring-mvc-showcas
 
 Other info:
 -------------------
-Framework version illustrated: Spring MVC 3.1
+Framework version illustrated: Spring MVC 4.0
 
 The slide presentation is located in this directory and named MasteringSpringMVC3.pdf.
 
 A screen cast showing the showcase in action is [available in QuickTime format](http://s3.springsource.org/MVC/mvc-showcase-screencast.mov).
 
 This showcase originated from a [blog post](http://blog.springsource.com/2010/07/22/spring-mvc-3-showcase/) and was adapted into a SpringOne presentation called [Mastering MVC 3](http://www.infoq.com/presentations/Mastering-Spring-MVC-3).
+
+Added some groovy spock test examples.
